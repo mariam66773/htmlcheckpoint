@@ -1,0 +1,28 @@
+.forsection
+{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    gap: 2.5rem;
+    padding: 1.375em-1.25em 0; 
+    font-size: 1. 5em; 
+    font-weight: 300; 
+    line-height: 1.2;
+    margin: 3.75rem auto 2.5rem;
+    color: #9d0eea;
+    font-family: sans-serif; 
+    max-width: 1015px;
+     padding:   20px; 
+     position: relative;
+}
+
+.for1 {
+    background-color: #010e0d;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    padding:  0;
+    justify-content: space-between;
+    height: 345px;
+}
